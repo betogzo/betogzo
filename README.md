@@ -1,7 +1,7 @@
 # Hi, i'm Beto (:
 
 🇧🇷 Brazilian\
-📚 Graduating Software Engineering \
+📚 Software Engineering undergraduate student\
 👨🏻‍💻 Learning Web Development (React | Node | Express | MongoDB)\
 📬 albertogale<span>azzo@ms</span>n.com\
 \
