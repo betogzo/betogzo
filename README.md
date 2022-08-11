@@ -1,6 +1,5 @@
 # Hi, i'm Beto 🙋🏻‍♂️
 
-🇧🇷 Brazilian  
 📚 Bacharelando em Engenharia de Software (3º ano)  
 👨🏻‍💻 Estudo desenvolvimento backend com Node.js e TypeScript  
 📬 albertogaleazzo@msn.com  
