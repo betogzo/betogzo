@@ -1,7 +1,7 @@
-# Hi, i'm Beto 🙋🏻‍♂️
+# @betgzo
 
 📚 Bacharelando em Engenharia de Software (3º ano)  
-👨🏻‍💻 Desenvolvedor de Software | Node.js | TypeScript | C# .NET | SQL  
-📬 albertogaleazzo@msn.com  
+👨🏻‍💻 Desenvolvedor Node.js | TypeScript 
+\
 \
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/albertogaleazzo) [![Apple Music](https://img.shields.io/badge/Apple_Music-9933CC?style=for-the-badge&logo=apple-music&logoColor=white)](https://music.apple.com/profile/albertogaleazzo)
