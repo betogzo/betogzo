@@ -1,4 +1,4 @@
-# @betgzo
+# @betogzo
 
 📚 Bacharelando em Engenharia de Software (4º ano)  
 👨🏻‍💻 Desenvolvedor Node.js | TypeScript | C# .NET 
