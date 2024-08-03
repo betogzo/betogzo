@@ -1,4 +1,4 @@
-📚 Bacharelando em Engenharia de Software (4º ano) @UniCesumar  
+📚 Bacharel em Engenharia de Software  
 👨🏻‍💻 Desenvolvedor .NET @VarejoCar
 \
 \
